@@ -1,0 +1,6 @@
+{
+  "name": "RSTA SNI Spoof",
+  "description": "An advanced responsive local SNI spoofing proxy and DPI bypass tool with beautiful Material 3 design and local state persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
